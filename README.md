@@ -1,3 +1,3 @@
 # CampusCravings
 
-A food network app with geolocation for mobile devices.
+Group Project about a social media app for college students focused on food, available on mobile devices.
